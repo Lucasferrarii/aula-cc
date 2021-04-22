@@ -4,5 +4,5 @@ dois
 três
 quatro
 cinco
-seis
+seiss
 sete
