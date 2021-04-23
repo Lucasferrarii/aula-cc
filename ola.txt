@@ -8,3 +8,6 @@ seiss
 sete
 oito
 nove 
+dez
+onze
+doze
